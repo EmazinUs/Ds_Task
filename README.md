@@ -85,19 +85,7 @@ The task involves working with two datasets:
    * Key findings are summarized in the notebook/analysis section
    * Includes practical interpretations useful for trading strategy teams
 
----
 
-## **📦 Repository Structure**
-
-```
-├── data/               # Raw datasets (if allowed)
-├── notebooks/          # Jupyter notebook(s) with full analysis
-├── scripts/            # Helper Python scripts (if any)
-├── visuals/            # Plots generated during analysis
-└── README.md           # Project overview (this file)
-```
-
----
 
 ## **📬 Submission Details**
 
